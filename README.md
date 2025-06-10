@@ -7,17 +7,17 @@ Here's a well-structured **README.md** file for your **Braille E-Book Reader wit
 This project enables visually impaired users to read digital text in Braille using **Raspberry Pi** and a **refreshable Braille display**. Python scripts process text, converting characters into Braille format, and the IoT-based system provides **real-time tactile feedback** for seamless e-book reading.  
 
 ## Features  
-- **Text-to-Braille conversion** using Python-based processing  
-- **Raspberry Pi integration** with a refreshable Braille display  
-- **IoT connectivity** for accessible reading anywhere  
-- **Supports multiple text formats** (TXT, PDF, ePub)  
+**Text-to-Braille conversion** using Python-based processing  
+**Raspberry Pi integration** with a refreshable Braille display  
+**IoT connectivity** for accessible reading anywhere  
+**Supports multiple text formats** (TXT, PDF, ePub)  
 
 ## Technologies Used  
-- **Python** (Text processing & Braille conversion)  
-- **Raspberry Pi** (Hardware interface)  
-- **IoT-based Refreshable Braille Display** (Haptic output)  
-- **OpenCV** (Optional OCR for printed text)  
-- **Flask** (Remote access & cloud storage)  
+ **Python** (Text processing & Braille conversion)  
+ **Raspberry Pi** (Hardware interface)  
+ **IoT-based Refreshable Braille Display** (Haptic output)  
+ **OpenCV** (Optional OCR for printed text)  
+ **Flask** (Remote access & cloud storage)  
 
 ## Installation  
 1. Clone the repository:  
@@ -43,9 +43,5 @@ This project enables visually impaired users to read digital text in Braille usi
 - **Voice Command Support** for hands-free interaction  
 - **Cloud synchronization** for multi-device access  
 
-## Contributors  
-- **Your Name** – Project Lead & IoT Integration  
 
-## License  
-This project is licensed under **MIT License** – feel free to modify and use.  
 
